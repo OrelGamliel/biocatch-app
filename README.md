@@ -1,3 +1,4 @@
+[screen-capture.webm](https://github.com/user-attachments/assets/68c17d63-9a22-4ef0-ac66-639f0e26e634)
 BioCatch Integration Demo
 
 A simulated banking journey (Home -> Login -> Account -> Payment -> Logout) built to demonstrate BioCatch SDK integration. 
